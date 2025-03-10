@@ -30,6 +30,7 @@ Below are the key resources you need to review today:
 1. Follow this tutorial on YT (https://youtu.be/tRZGeaHPoaw?si=vDTa13s5iRsiFpp6),
 (https://youtu.be/b9fL9y_71d4?si=xwuyrjBrnE-I9rvK)
 2. Post one question or insight in GitHub Discussions from what you learned on the first day on this repo** (https://github.com/ttobio/Genomics-WES-Project.git) 
+
 **Task 1: Install Docker on WSL**
 - **Objective:** Set up Docker on your Windows Subsystem for Linux.
 - **Instructions:**  
