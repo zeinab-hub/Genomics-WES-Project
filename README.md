@@ -60,6 +60,7 @@ Below are the key resources you need to review today:
 3. Add and commit your changes and pull a request
 - *You can type whatever you want in this file, just don't add confdential info*
 - *This should be easy and it is covered in the YT videos provided*
+
 **Task 2: Get to know markdown files**
 - **Instructions**
 1. [Get familiar with the markdown files](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
