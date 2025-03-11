@@ -1,5 +1,5 @@
 # Genomics-WES-Project
-# Day One: Introduction to Genetics, Genomics, and Precision Medicine
+## Day One: Introduction to Genetics, Genomics, and Precision Medicine
 
 Welcome to Week One of our  series! Today’s focus is on establishing a solid foundation in genetics, genomics, and precision medicine—and understanding how sequencing data is generated and analyzed.
 
@@ -49,5 +49,21 @@ Below are the key resources you need to review today:
 ## Discussion and Feedback
 
 - **Discussion:** Post any questions or installation issues in our GitHub Issues page.
+- **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
+
+## Day 3: Get a rest
+
+**Task 1: Your first pull request**
+- **Instructions**
+1. Clone this repository on you local machine `git clone https://github.com/ttobio/Genomics-WES-Project.git`
+2. Create a new file in the assignments folder with your user id --> example u00.txt
+3. Add and commit your changes and pull a request
+- *You can type whatever you want in this file, just don't add confdential info*
+- *This should be easy and it is covered in the YT videos provided*
+**Task 2: Get to know markdown files**
+- **Instructions**
+1. [Get familiar with the markdown files](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. Apply this knowledge to the readme file (This file): maybe add resource that helped you and isn't here
+
 - **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
 
