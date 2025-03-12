@@ -30,9 +30,9 @@ Below are the key resources you need to review today:
 1. Follow this tutorial on YT (https://youtu.be/tRZGeaHPoaw?si=vDTa13s5iRsiFpp6),
 (https://youtu.be/b9fL9y_71d4?si=xwuyrjBrnE-I9rvK)
 2. Post one question or insight in GitHub Discussions from what you learned on the first day on this repo** (https://github.com/ttobio/Genomics-WES-Project.git)
-3.  ## Additional Resources  
-Here are some additional resources that helped me understand the concepts better:  
 
+### Additional Resources - u01  
+Here are some additional resources that helped me understand the concepts better:  
 - [Markdown Guide](https://www.markdownguide.org/) - A comprehensive guide on Markdown syntax.  
 - [GitHub Docs](https://docs.github.com/en) - Official GitHub documentation.  
 - [Video Tutorial on GitHub & Markdown](https://youtu.be/fDkR0TDR9dI?si=vILUoDYfh2m4U4Cm) - A helpful video explaining GitHub and Markdown concepts.
