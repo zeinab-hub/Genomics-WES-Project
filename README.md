@@ -74,3 +74,22 @@ Here are some additional resources that helped me understand the concepts better
 
 - **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
 
+## Day 4: Know more about docker and SHELL
+**Task 1: Get used to Docker**
+- **Instructions**
+1. [Docker 101](https://youtu.be/eGz9DS-aIeY?si=KYJRg5YzS0JVQKpW)
+2. [More of Docker](https://youtu.be/RqTEHSBrYFw?si=CSK5VMEb79hTFRzq)
+3. Prepare a 3 minutes talk about Docker and how it will us in this project for next friday
+
+**Task 2: Install GATK using Docker**
+- **Instructions**
+1. [Use this link to download GATK using Docker](https://hub.docker.com/r/broadinstitute/gatk/)
+2. [More of GATK documentation](https://github.com/broadinstitute/gatk)
+3. Verify the download and tell us about any tricky problems you faced on the discussion panel
+
+**Task 3: Know more about shell**
+- **Instructions**
+1. [The Shell playlist](https://youtube.com/playlist?list=PLA86D04D6E0BFD2E0&si=bLIDog2l41W0w0Zv)
+
+
+- **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
