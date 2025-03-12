@@ -74,7 +74,8 @@ Here are some additional resources that helped me understand the concepts better
 
 - **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
 
-## Day 4: Know more about docker and SHELL
+## Day 4: Know more about Docker and SHELL
+
 **Task 1: Get used to Docker**
 - **Instructions**
 1. [Docker 101](https://youtu.be/eGz9DS-aIeY?si=KYJRg5YzS0JVQKpW)
