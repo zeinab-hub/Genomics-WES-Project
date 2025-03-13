@@ -74,6 +74,11 @@ Here are some additional resources that helped me understand the concepts better
 
 - **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
 
+## Additional Resources  
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+- [Set up Git on macOS](https://www.atlassian.com/git/tutorials/install-git#mac-os-x)  
+- [Basic Terminal Commands for macOS](https://www.macworld.com/article/671468/how-to-use-the-terminal-on-mac.html)
+
 ## Day 4: Know more about Docker and SHELL
 
 **Task 1: Get used to Docker**
