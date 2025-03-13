@@ -99,3 +99,14 @@ Here are some additional resources that helped me understand the concepts better
 
 
 - **Reflection:** Write a short reflection (2-3 sentences) about what you learned today and any challenges you encountered. Share this in the discussion forum.
+
+## Day 5: File formats
+- **Instructions**
+#### - Here are some YT videos that will help you understand the file formats we are going to work with 
+1. [FASTA & FASTQ](https://youtu.be/xYEre9DtIqA?si=MsgBaiiCILqNry5-)
+2. [VCF & gVCF](https://youtu.be/cBDZSGf9HRE?si=Oi5WkQCZrxhDuw40)
+3. [SAM/BAM](https://youtu.be/vh6l9aPFUgU?si=F_T-ltv6TPh00Lc9)
+4. [GFF3 & GTF](https://youtu.be/vh6l9aPFUgU?si=F_T-ltv6TPh00Lc9)
+
+
+- **Reflection:** Post some intersting facts about the file formats that you learned today on the discussion panel
