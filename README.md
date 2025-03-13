@@ -109,4 +109,4 @@ Here are some additional resources that helped me understand the concepts better
 4. [GFF3 & GTF](https://youtu.be/vh6l9aPFUgU?si=F_T-ltv6TPh00Lc9)
 
 
-- **Reflection:** Post some intersting facts about the file formats that you learned today on the discussion panel
+- **Reflection:** Post some interesting facts about the file formats that you learned today on the discussion panel
