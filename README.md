@@ -61,7 +61,7 @@ Here are some additional resources that helped me understand the concepts better
 
 **Task 1: Your first pull request**
 - **Instructions**
-1. Clone this repository on you local machine `git clone https://github.com/ttobio/Genomics-WES-Project.git`
+1. Clone the repository on you local machine as a fork 
 2. Create a new file in the assignments folder with your user id --> example u00.txt
 3. Add and commit your changes and pull a request
 - *You can type whatever you want in this file, just don't add confdential info*
