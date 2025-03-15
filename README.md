@@ -135,4 +135,4 @@ Here are some additional resources that helped me understand the concepts better
 5. The steps in the md file you will provide must be reproducable, meaning if someone has the tools installed and ran the same commands, it should produce the same output and the md file should contain all the details for someone to be able to both follow it and understand the rationale behind it.
 
 
-- **Reminder:** If you had any problems, search the internet and if you didn't find a solution, feel free to post it in the issues or on our WhatsApp group.
+- **Reminder:** If you had any problems, search the internet and if you didn't find a solution, feel free to post it in the issues or on the WhatsApp group.
